@@ -146,7 +146,7 @@ h6 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgb(0 0 0 / 67%);
+  background: rgb(255 255 255 / 34%);
   color: #fff;
   line-height: 1;
   margin-right: 8px;
@@ -169,7 +169,7 @@ h6 {
 
 @media (max-width: 992px) {
   #header h1 {
-    font-size: 36px;
+    font-size: 35px;
   }
 
   #header h2 {
